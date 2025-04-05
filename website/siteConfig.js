@@ -22,8 +22,6 @@ const users = [
 
 const siteConfig = {
 
-
-module.exports = {
   title: 'ngsAMOVA Documentation',
   tagline: 'Documentation for the ngsAMOVA tool',
   onBrokenLinks: 'throw',

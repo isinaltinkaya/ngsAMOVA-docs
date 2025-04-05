@@ -1,0 +1,63 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "103": [
+      103
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "styles": [
+      354,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "103": {
+      "js": [
+        {
+          "file": "assets/js/103.69ed2a13.js",
+          "hash": "860ee45c6de8e613",
+          "publicPath": "/ngsAMOVA-docs/assets/js/103.69ed2a13.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.1d2eb8dc.js",
+          "hash": "841a932e6e7a622f",
+          "publicPath": "/ngsAMOVA-docs/assets/js/runtime~main.1d2eb8dc.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.6a153f92.js",
+          "hash": "3811e2c634d5fd12",
+          "publicPath": "/ngsAMOVA-docs/assets/js/main.6a153f92.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.5698df25.css",
+          "hash": "d9912620e7b2865c",
+          "publicPath": "/ngsAMOVA-docs/assets/css/styles.5698df25.css"
+        }
+      ]
+    }
+  }
+}
