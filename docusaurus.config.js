@@ -2,12 +2,12 @@ module.exports = {
   title: 'ngsAMOVA Documentation',
   tagline: 'Documentation for the ngsAMOVA tool',
   url: 'https://isinaltinkaya.github.io',
-  baseUrl: '/ngsAMOVA',
+  baseUrl: '/ngsAMOVA-docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'YourOrg', // **Replace with your GitHub org name**
-  projectName: 'ngsAMOVA-docs', // **Replace with your repo name**
+  organizationName: 'isinaltinkaya',
+  projectName: 'ngsAMOVA-docs',
   presets: [
     [
       '@docusaurus/preset-classic',
