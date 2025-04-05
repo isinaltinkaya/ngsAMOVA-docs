@@ -1,12 +1,23 @@
 {
+  "name": "ngsAMOVA-docs",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve",
     "examples": "docusaurus-examples",
     "start": "docusaurus-start",
     "build": "docusaurus-build",
     "publish-gh-pages": "docusaurus-publish",
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
-    "rename-version": "docusaurus-rename-version"
+    "rename-version": "docusaurus-rename-version",
+    "deploy": "docusaurus deploy"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.0.0-beta.13",
+    "@docusaurus/preset-classic": "^2.0.0-beta.13"
   },
   "devDependencies": {
     "docusaurus": "^1.14.7"
